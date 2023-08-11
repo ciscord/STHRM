@@ -16,4 +16,4 @@ STHRM is a comprehensive Human Resource Management (HRM) System that captures al
 ## Resources
 
 ### Website
-https://www.hrm.shants-tech.com/
+https://hrm.shants-tech.com/
